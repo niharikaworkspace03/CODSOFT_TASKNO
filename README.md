@@ -2,9 +2,7 @@
 
 Welcome to my **CodSoft Data Analytics Internship** repository.
 
-This repository showcases the tasks and projects completed as part of my internship, demonstrating practical skills in **Python, Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, and Data Analysis**.
-
-Each task focuses on solving real-world data problems using industry-standard Python libraries and best coding practices.
+This repository contains the projects completed during my internship at **CodSoft**, showcasing practical applications of **Python**, **Data Cleaning**, **Exploratory Data Analysis (EDA)**, and **Data Visualization**. Each task demonstrates the use of industry-standard Python libraries to analyze and visualize real-world datasets.
 
 ---
 
@@ -13,10 +11,10 @@ Each task focuses on solving real-world data problems using industry-standard Py
 ## Task 1 – Data Cleaning & Preprocessing
 
 ### Objective
-Perform data cleaning and preprocessing to improve the quality of raw data before analysis.
+Clean and preprocess raw data to improve data quality before analysis.
 
 ### Key Activities
-- Imported the dataset using Pandas
+- Imported datasets using Pandas
 - Inspected dataset structure
 - Identified missing values
 - Detected duplicate records
@@ -27,7 +25,7 @@ Perform data cleaning and preprocessing to improve the quality of raw data befor
 
 ### Project Folder
 
-```
+```text
 Task-1-Data-Cleaning/
 ```
 
@@ -35,36 +33,69 @@ Task-1-Data-Cleaning/
 
 ## Task 2 – Exploratory Data Analysis (EDA)
 
-### Objective
-Perform Exploratory Data Analysis (EDA) to understand the dataset using descriptive statistics and visualizations.
+### 📌 Objective
+Perform Exploratory Data Analysis (EDA) to understand the dataset using statistical analysis and visualizations.
 
-### Key Activities
+### 🔹 Key Activities
 - Loaded and explored the dataset
 - Examined dataset structure
 - Generated summary statistics
 - Checked for missing values
-- Identified feature distributions
-- Detected outliers using boxplots
-- Analyzed relationships between variables
-- Created visualizations for better insights
-- Generated a brief EDA report
+- Analyzed feature distributions
+- Identified outliers using boxplots
+- Explored relationships between variables
+- Created insightful visualizations
+- Generated an EDA report
 
-### Visualizations Generated
+### Visualizations
 - Histogram
 - Boxplots
+- Scatter Plot
 - Correlation Heatmap
 - Pair Plot
-- Scatter Plot
 
 ### Project Folder
 
-```
+```text
 Task-2-Exploratory-Data-Analysis/
 ```
 
 ---
 
-# Technologies Used
+## Task 3 – Data Visualization Dashboard
+
+### Objective
+Create an interactive-style visualization dashboard to uncover insights from the Titanic dataset using Python visualization libraries.
+
+### Key Activities
+- Loaded and analyzed the Titanic dataset
+- Visualized survival statistics
+- Analyzed passenger demographics
+- Explored fare and age distributions
+- Compared passenger classes
+- Generated multiple statistical visualizations
+- Created a dashboard-style collection of charts
+
+### Visualizations
+- Survival Count
+- Gender Distribution
+- Passenger Class Distribution
+- Age Histogram
+- Fare Boxplot
+- Scatter Plot
+- Correlation Heatmap
+- Pair Plot
+- Pie Chart
+
+### Project Folder
+
+```text
+Task-3-Data-Visualization-Dashboard/
+```
+
+---
+
+# 🛠️ Technologies Used
 
 - Python
 - Pandas
@@ -79,7 +110,7 @@ Task-2-Exploratory-Data-Analysis/
 
 # Repository Structure
 
-```
+```text
 CodSoft-Data-Analytics/
 │
 ├── Task-1-Data-Cleaning/
@@ -106,6 +137,23 @@ CodSoft-Data-Analytics/
 │       ├── boxplot_petal_length.png
 │       └── boxplot_petal_width.png
 │
+├── Task-3-Data-Visualization-Dashboard/
+│   ├── dataset.csv
+│   ├── visualization_dashboard.py
+│   ├── README.md
+│   ├── report.txt
+│   ├── requirements.txt
+│   └── output/
+│       ├── survival_count.png
+│       ├── gender_distribution.png
+│       ├── passenger_class.png
+│       ├── age_histogram.png
+│       ├── fare_boxplot.png
+│       ├── scatter_plot.png
+│       ├── correlation_heatmap.png
+│       ├── pairplot.png
+│       └── pie_chart.png
+│
 └── README.md
 ```
 
@@ -113,24 +161,25 @@ CodSoft-Data-Analytics/
 
 # Learning Outcomes
 
-Through these tasks, I gained practical experience in:
+Throughout this internship, I gained hands-on experience in:
 
-- Data Cleaning and Preprocessing
+- Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
-- Statistical Data Analysis
 - Data Visualization
-- Identifying Trends and Patterns
-- Detecting Outliers
+- Statistical Analysis
 - Correlation Analysis
+- Identifying Trends and Patterns
+- Outlier Detection
 - Working with Real-world Datasets
-- Writing Clean and Maintainable Python Code
+- Python Programming for Data Analytics
 - Git & GitHub Version Control
+- Writing Clean, Maintainable, and Reusable Code
 
 ---
 
 # Author
 
-## Niharika M
+## **Niharika M**
 
 **Information Science & Engineering Student**
 
@@ -141,10 +190,10 @@ Through these tasks, I gained practical experience in:
 
 ---
 
-## About This Repository
+# About This Repository
 
-This repository will be updated regularly with all the tasks completed during my **CodSoft Data Analytics Internship**.
+This repository serves as a collection of the projects completed during my **CodSoft Data Analytics Internship**. Each task focuses on strengthening practical data analytics skills through real-world datasets, Python programming, and effective data visualization techniques.
 
-Each project demonstrates practical implementation of data analytics concepts using Python and industry-standard libraries.
+More internship tasks and future data analytics projects will be added as I continue learning and building new projects.
 
-Thank you for visiting this repository!
+Thank you for visiting my repository!
