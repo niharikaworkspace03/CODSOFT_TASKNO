@@ -1,0 +1,32 @@
+DATA VISUALIZATION DASHBOARD REPORT
+
+Dataset:
+Iris Dataset
+
+Tools Used:
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+Insights:
+
+• The Iris dataset contains three flower species.
+
+• Petal Length and Petal Width are highly correlated.
+
+• Setosa is clearly separated from the other species.
+
+• Virginica generally has the largest petals.
+
+• Histograms show the distribution of numerical features.
+
+• Boxplots help identify spread and potential outliers.
+
+• Scatter plots reveal relationships between variables.
+
+• Heatmap highlights feature correlations.
+
+Conclusion:
+
+Data visualization provides an intuitive understanding of the dataset by revealing patterns, distributions, and relationships between variables.
