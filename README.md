@@ -1,4 +1,4 @@
-# 📊 CodSoft Data Analytics Internship
+# CodSoft Data Analytics Internship
 
 Welcome to my **CodSoft Data Analytics Internship** repository.
 
@@ -8,14 +8,14 @@ Each task focuses on solving real-world data problems using industry-standard Py
 
 ---
 
-# 🚀 Internship Tasks
+# Internship Tasks
 
-## ✅ Task 1 – Data Cleaning & Preprocessing
+## Task 1 – Data Cleaning & Preprocessing
 
-### 📌 Objective
+### Objective
 Perform data cleaning and preprocessing to improve the quality of raw data before analysis.
 
-### 🔹 Key Activities
+### Key Activities
 - Imported the dataset using Pandas
 - Inspected dataset structure
 - Identified missing values
@@ -25,7 +25,7 @@ Perform data cleaning and preprocessing to improve the quality of raw data befor
 - Cleaned and prepared the dataset
 - Exported the cleaned dataset as a new CSV file
 
-### 📂 Project Folder
+### Project Folder
 
 ```
 Task-1-Data-Cleaning/
@@ -33,12 +33,12 @@ Task-1-Data-Cleaning/
 
 ---
 
-## ✅ Task 2 – Exploratory Data Analysis (EDA)
+## Task 2 – Exploratory Data Analysis (EDA)
 
-### 📌 Objective
+### Objective
 Perform Exploratory Data Analysis (EDA) to understand the dataset using descriptive statistics and visualizations.
 
-### 🔹 Key Activities
+### Key Activities
 - Loaded and explored the dataset
 - Examined dataset structure
 - Generated summary statistics
@@ -49,14 +49,14 @@ Perform Exploratory Data Analysis (EDA) to understand the dataset using descript
 - Created visualizations for better insights
 - Generated a brief EDA report
 
-### 📊 Visualizations Generated
+### Visualizations Generated
 - Histogram
 - Boxplots
 - Correlation Heatmap
 - Pair Plot
 - Scatter Plot
 
-### 📂 Project Folder
+### Project Folder
 
 ```
 Task-2-Exploratory-Data-Analysis/
@@ -64,7 +64,7 @@ Task-2-Exploratory-Data-Analysis/
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 - Python
 - Pandas
@@ -77,7 +77,7 @@ Task-2-Exploratory-Data-Analysis/
 
 ---
 
-# 📁 Repository Structure
+# Repository Structure
 
 ```
 CodSoft-Data-Analytics/
@@ -111,7 +111,7 @@ CodSoft-Data-Analytics/
 
 ---
 
-# 📚 Learning Outcomes
+# Learning Outcomes
 
 Through these tasks, I gained practical experience in:
 
@@ -128,20 +128,20 @@ Through these tasks, I gained practical experience in:
 
 ---
 
-# 👩‍💻 Author
+# Author
 
 ## Niharika M
 
 **Information Science & Engineering Student**
 
-### 🌐 Connect with Me
+### Connect with Me
 
 - **GitHub:** https://github.com/niharikaworkspace03
 - **LinkedIn:** https://www.linkedin.com/in/niharika-m-974774340
 
 ---
 
-## ⭐ About This Repository
+## About This Repository
 
 This repository will be updated regularly with all the tasks completed during my **CodSoft Data Analytics Internship**.
 
