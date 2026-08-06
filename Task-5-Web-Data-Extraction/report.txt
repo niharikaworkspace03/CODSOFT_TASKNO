@@ -1,0 +1,123 @@
+============================================================
+              WEB DATA EXTRACTION & ANALYSIS REPORT
+============================================================
+
+Project Title:
+Task 5 - Web Data Extraction & Analysis
+
+Internship:
+CodSoft Data Analytics Internship
+
+Author:
+Niharika M
+
+------------------------------------------------------------
+Project Objective
+------------------------------------------------------------
+
+The objective of this project is to extract structured data from a
+public website using Python, store the extracted information in a
+CSV file, perform basic exploratory data analysis, and generate
+visualizations to gain meaningful insights.
+
+------------------------------------------------------------
+Website Used
+------------------------------------------------------------
+
+Books to Scrape
+
+https://books.toscrape.com/
+
+------------------------------------------------------------
+Tools & Technologies
+------------------------------------------------------------
+
+• Python 3
+• Requests
+• BeautifulSoup4
+• Pandas
+• Matplotlib
+• Seaborn
+• VS Code
+• Git
+• GitHub
+
+------------------------------------------------------------
+Data Extracted
+------------------------------------------------------------
+
+The following information was extracted from the website:
+
+• Book Title
+• Price
+• Rating
+• Availability
+
+------------------------------------------------------------
+Project Workflow
+------------------------------------------------------------
+
+1. Connected to the website using Requests.
+2. Retrieved the HTML source code.
+3. Parsed the webpage using BeautifulSoup.
+4. Extracted book details.
+5. Stored the extracted data in a Pandas DataFrame.
+6. Exported the data to a CSV file.
+7. Performed exploratory data analysis.
+8. Generated visualizations.
+9. Saved all outputs in the Output folder.
+
+------------------------------------------------------------
+Output Files
+------------------------------------------------------------
+
+books.csv
+
+Generated Visualizations:
+
+• Price Distribution
+• Rating Distribution
+• Stock Availability
+• Top 10 Most Expensive Books
+• Average Price by Rating
+
+------------------------------------------------------------
+Observations
+------------------------------------------------------------
+
+• Successfully extracted book information from the website.
+• Book prices vary across different titles.
+• Ratings range from 1 to 5 stars.
+• The extracted dataset is clean and structured.
+• Visualizations help understand pricing and rating patterns.
+
+------------------------------------------------------------
+Learning Outcomes
+------------------------------------------------------------
+
+Through this project, I learned:
+
+• Web Scraping using BeautifulSoup
+• Sending HTTP requests using Requests
+• HTML Parsing
+• Data Extraction
+• Data Cleaning
+• Data Analysis using Pandas
+• Data Visualization using Matplotlib
+• Data Visualization using Seaborn
+• CSV File Handling
+• Python Automation
+
+------------------------------------------------------------
+Conclusion
+------------------------------------------------------------
+
+This project demonstrates the complete workflow of web data
+extraction, preprocessing, analysis, and visualization using Python.
+It highlights practical skills in web scraping, structured data
+handling, and exploratory data analysis, making it a valuable
+real-world data analytics project.
+
+============================================================
+                    END OF REPORT
+============================================================
